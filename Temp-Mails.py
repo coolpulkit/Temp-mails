@@ -17,7 +17,7 @@ def banner():
 +-----------------------------------------------------+
 |                                                     |
 |                                                     |
-|                   Waah Beta Moj Kardi!!             |
+|          Great Work!! U r gud to go now             |
 |                                                     |
 |                                                     |
 |                                   (Coded By Pulkit) |
